@@ -12,7 +12,13 @@ https://gamarjoba.fly.dev/
 [Qiita](https://qiita.com/jiantaiyiteng1)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itok1000&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p><img src="https://github-readme-stats.vercel.app/api?username=Itok1000&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p><img src="https://github-profile-trophy.vercel.app/?username=Itok1000&theme=juicyfresh&no-bg=true" />
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itok1000&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Itok1000&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Itok1000&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 **Itok1000/Itok1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
