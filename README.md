@@ -8,11 +8,11 @@
   <a href="https://github.com/Itok1000">
     <img height="20" src="https://img.shields.io/github/followers/Itok1000?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/Itok1000">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Itok1000/posts.svg" />
+  <a href="http://qiita.com/jiantaiyiteng1">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/jiantaiyiteng1/posts.svg" />
   </a>
-  <//qiita.com/Itok1000">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/Itok1000/contributions.svg" />
+  <//qiita.com/jiantaiyiteng1">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/jiantaiyiteng1/contributions.svg" />
   </a>
 </p>
 
