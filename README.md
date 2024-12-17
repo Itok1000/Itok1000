@@ -1,6 +1,17 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Itok1000=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Itok1000=anuraghazra&count_private=true)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?Itok1000=anuraghazra&show_icons=true)
+## Hi there 👋
+I am a new web engineer who just started Github in July 2024!
+I look forward to working with you.
+
+## Skills
+- **Languages**: JavaScript, Ruby,HTML,CSS
+- **Frameworks**: Node.js
+- **Tools**: Git, Docker, VS Code
+## My portfolio
+https://gamarjoba.fly.dev/
+## Connect with me
+- [X]([https://twitter.com/username](https://x.com/Itoken1000))
+- [instagram]([https://username.github.io](https://www.instagram.com/uotiatnek2525))
+- [Git]([[https://twitter.com/username](https://x.com/Itoken1000)](https://github.com/Itok1000))
 
 <!--
 **Itok1000/Itok1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
