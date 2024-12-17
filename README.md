@@ -3,7 +3,7 @@ I am a new web engineer who just started Github in July 2024!
 I look forward to working with you.
 
 ## Skills
-![](https://skillicons.dev/icons?i=html,scss,js,ruby,rails,docker,figma,bootstrap,aws,fly.io)
+![](https://skillicons.dev/icons?i=html,scss,js,ruby,rails,docker,figma,bootstrap,aws,fly)
 ## My portfolio
 https://gamarjoba.fly.dev/
 ## Connect with me
