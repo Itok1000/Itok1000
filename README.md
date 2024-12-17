@@ -9,8 +9,12 @@ https://gamarjoba.fly.dev/
 ## Connect with me
 ![](https://skillicons.dev/icons?i=twitter)
 - https://x.com/Itoken1000
+
+- 
 ![](https://skillicons.dev/icons?i=instagram)
 - https://www.instagram.com/uotiatnek2525
+
+- 
 ![](https://skillicons.dev/icons?i=git)
 - https://github.com/Itok1000
 
