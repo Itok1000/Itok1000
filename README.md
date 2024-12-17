@@ -1,3 +1,17 @@
+## Hi there 👋
+I am a new web engineer who just started Github in July 2024!
+I look forward to working with you.
+
+## Skills
+![](https://skillicons.dev/icons?i=html,scss,js,ruby,rails,docker,figma,bootstrap,aws,ubuntu)
+## My portfolio
+[![ジョージア料理診断アプリ ガマルジョバ](https://github.com/user-attachments/assets/286864db-b868-496f-a1ed-55805c6b6295)](https://gamarjoba.fly.dev/)
+[ readme ](https://github.com/Itok1000/master)
+
+
+## Connect with me
+[![](https://skillicons.dev/icons?i=twitter)](https://x.com/Itoken1000) [![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/uotiatnek2525) [![](https://skillicons.dev/icons?i=github)](https://github.com/Itok1000)
+
 <p align="left">
   <a href="https://github.com/Itok1000/Itok1000/">
     <img src="https://komarev.com/ghpvc/?username=Itok1000" alt="Itok1000" />
@@ -15,23 +29,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/jiantaiyiteng1/contributions.svg" />
   </a>
 </p>
-
-
-## Hi there 👋
-I am a new web engineer who just started Github in July 2024!
-I look forward to working with you.
-
-## Skills
-![](https://skillicons.dev/icons?i=html,scss,js,ruby,rails,docker,figma,bootstrap,aws,ubuntu)
-## My portfolio
-[![ジョージア料理診断アプリ ガマルジョバ](https://github.com/user-attachments/assets/286864db-b868-496f-a1ed-55805c6b6295)](https://gamarjoba.fly.dev/)
-[ readme ](https://github.com/Itok1000/master)
-
-
-## Connect with me
-[![](https://skillicons.dev/icons?i=twitter)](https://x.com/Itoken1000) [![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/uotiatnek2525) [![](https://skillicons.dev/icons?i=github)](https://github.com/Itok1000)
-
-[Qiita](https://qiita.com/jiantaiyiteng1)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itok1000&layout=compact&count_private=true&show_icons=true&theme=onedark" />
