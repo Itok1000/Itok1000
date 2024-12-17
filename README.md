@@ -22,8 +22,6 @@ https://github.com/Itok1000
 
 <img src="https://github-profile-trophy.vercel.app/?username=Itok1000&theme=juicyfresh&no-bg=true" />
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default)
-
 <!--
 **Itok1000/Itok1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
