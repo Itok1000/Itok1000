@@ -11,9 +11,13 @@ I look forward to working with you.
 https://gamarjoba.fly.dev/
 
 ## Connect with me
-- [X]([https://twitter.com/username](https://x.com/Itoken1000))
-- [instagram]([https://username.github.io](https://www.instagram.com/uotiatnek2525))
-- [Git]([[https://twitter.com/username](https://x.com/Itoken1000)](https://github.com/Itok1000))
+- [X]([https://twitter.com/Itok1000](https://x.com/Itoken1000))
+- [instagram]([https://Itok1000.github.io](https://www.instagram.com/uotiatnek2525))
+- [Git]([[https://twitter.com/Itok1000](https://x.com/Itoken1000)](https://github.com/Itok1000))
+<img src="https://github-readme-stats.vercel.app/api/top-langs?Itok1000=Itok1000&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
+<img src="https://github-readme-stats.vercel.app/api?Itok1000=Itok1000&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<img src="https://github-profile-trophy.vercel.app/?Itok1000=Itok1000&theme=juicyfresh&no-bg=true" />
+
 <!--
 **Itok1000/Itok1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
