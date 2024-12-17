@@ -5,7 +5,9 @@ I look forward to working with you.
 ## Skills
 ![](https://skillicons.dev/icons?i=html,scss,js,ruby,rails,docker,figma,bootstrap,aws,ubuntu)
 ## My portfolio
-https://gamarjoba.fly.dev/
+[![ジョージア料理診断アプリ ガマルジョバ](https://github.com/user-attachments/assets/286864db-b868-496f-a1ed-55805c6b6295)](https://gamarjoba.fly.dev/)
+
+
 ## Connect with me
 [![](https://skillicons.dev/icons?i=twitter)](https://x.com/Itoken1000) [![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/uotiatnek2525) [![](https://skillicons.dev/icons?i=github)](https://github.com/Itok1000)
 
