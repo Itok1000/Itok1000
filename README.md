@@ -37,6 +37,11 @@ I look forward to working with you.
 [![trophy](https://github-profile-trophy.vercel.app/?username=Itok1000&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+
+## Hobby
+- Travel
+- Cooking
+- Fitness Training
 <!--
 **Itok1000/Itok1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
