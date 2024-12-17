@@ -28,9 +28,6 @@ I look forward to working with you.
   <//qiita.com/jiantaiyiteng1">
     <img height="20" src="https://qiita-badge.apiapi.app/s/jiantaiyiteng1/contributions.svg" />
   </a>
-  <a href="https://www.instagram.com/uotiatnek2525">
-    <img height="20" src="https://www.instagram.com/uotiatnek2525" />
-  </a>
 </p>
 
 <p align="left"> 
