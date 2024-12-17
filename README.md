@@ -12,10 +12,7 @@ https://gamarjoba.fly.dev/
 [Qiita](https://qiita.com/jiantaiyiteng1)
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itok1000&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Itok1000&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itok1000&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p> <img src="https://github-readme-stats.vercel.app/api?username=Itok1000&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
 <img src="https://github-profile-trophy.vercel.app/?username=Itok1000&theme=juicyfresh&no-bg=true" />
 
 <!--
