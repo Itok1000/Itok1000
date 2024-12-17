@@ -9,9 +9,12 @@ I look forward to working with you.
 ## My portfolio
 https://gamarjoba.fly.dev/
 ## Connect with me
-- [X]([https://twitter.com/username](https://x.com/Itoken1000))
-- [instagram]([https://username.github.io](https://www.instagram.com/uotiatnek2525))
-- [Git]([[https://twitter.com/username](https://x.com/Itoken1000)](https://github.com/Itok1000))
+- [X]
+- https://x.com/Itoken1000
+- [instagram]
+- https://www.instagram.com/uotiatnek2525
+- [Git]
+- https://github.com/Itok1000
 
 <!--
 **Itok1000/Itok1000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
