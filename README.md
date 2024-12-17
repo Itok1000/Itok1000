@@ -7,11 +7,11 @@ I look forward to working with you.
 ## My portfolio
 https://gamarjoba.fly.dev/
 ## Connect with me
-- [X]
+![](https://skillicons.dev/icons?i=twitter)
 - https://x.com/Itoken1000
-- [instagram]
+![](https://skillicons.dev/icons?i=instagram)
 - https://www.instagram.com/uotiatnek2525
-- [Git]
+![](https://skillicons.dev/icons?i=git)
 - https://github.com/Itok1000
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itok1000&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
