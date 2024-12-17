@@ -8,13 +8,13 @@ I look forward to working with you.
 https://gamarjoba.fly.dev/
 ## Connect with me
 ![](https://skillicons.dev/icons?i=twitter)
-- https://x.com/Itoken1000
+https://x.com/Itoken1000
 
 ![](https://skillicons.dev/icons?i=instagram)
-- https://www.instagram.com/uotiatnek2525
+https://www.instagram.com/uotiatnek2525
 
 ![](https://skillicons.dev/icons?i=git)
-- https://github.com/Itok1000
+https://github.com/Itok1000
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Itok1000&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 
