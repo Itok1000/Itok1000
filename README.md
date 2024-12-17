@@ -16,9 +16,6 @@ I look forward to working with you.
   <a href="https://github.com/Itok1000/Itok1000/">
     <img src="https://komarev.com/ghpvc/?username=Itok1000" alt="Itok1000" />
   </a>
-  <a href="https://x.com/Itoken1000">
-    <img height="20" src="https://img.shields.io/twitter/follow/Itok1000?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/Itok1000">
     <img height="20" src="https://img.shields.io/github/followers/Itok1000?label=follow&logo=github&style=flat" />
   </a>
