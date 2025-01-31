@@ -9,7 +9,6 @@ I look forward to working with you.
 [ readme ](https://github.com/Itok1000/master)
 
 https://living-whippet-itok1000-8f99f3fa.koyeb.app/
-app/assets/images/default_ogp.png
 [reademe](https://github.com/Itok1000/birthnation)
 
 ## Connect with me
