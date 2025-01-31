@@ -8,7 +8,7 @@ I look forward to working with you.
 [![ジョージア料理診断アプリ ガマルジョバ](https://github.com/user-attachments/assets/286864db-b868-496f-a1ed-55805c6b6295)](https://gamarjoba.jp/)
 [ readme ](https://github.com/Itok1000/master)
 
-[BirthNation](https://living-whippet-itok1000-8f99f3fa.koyeb.app/)
+[![BirthNation]app/assets/images/default_ogp.png](https://living-whippet-itok1000-8f99f3fa.koyeb.app/)
 [reademe](https://github.com/Itok1000/birthnation)
 
 ## Connect with me
