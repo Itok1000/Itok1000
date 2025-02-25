@@ -3,7 +3,7 @@ I am a new web engineer who just started Github in July 2024!
 I look forward to working with you.
 
 ## Skills
-![](https://skillicons.dev/icons?i=html,scss,css,js,node.js,ruby,rails,docker,figma,bootstrap,tailwind,aws,ubuntu,discord,git,postgresql,vscode)
+![](https://skillicons.dev/icons?i=html,scss,css,js,node,ruby,rails,docker,figma,bootstrap,tailwind,aws,ubuntu,discord,git,postgresql,vscode)
 ## My portfolio
 [![ジョージア料理診断アプリ ガマルジョバ](https://github.com/user-attachments/assets/286864db-b868-496f-a1ed-55805c6b6295)](https://gamarjoba.jp/)
 [ readme ](https://github.com/Itok1000/master)
