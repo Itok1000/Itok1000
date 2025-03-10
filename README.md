@@ -9,7 +9,7 @@ I look forward to working with you.
 [reademe](https://github.com/Itok1000/birthnation)
 
 ## Skills
-![](https://skillicons.dev/icons?i=html,scss,css,js,ruby,rails,docker,figma,bootstrap,tailwind,aws,ubuntu,discord,git,postgresql,vscode,eclipse)
+![](https://skillicons.dev/icons?i=html,scss,css,js,ruby,rails,docker,figma,bootstrap,tailwind,aws,ubuntu,discord,git,postgresql,vscode,eclipse,github)
 
 ## Connect with me
 [![](https://skillicons.dev/icons?i=twitter)](https://x.com/Itoken1000) [![](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/uotiatnek2525) [![](https://skillicons.dev/icons?i=github)](https://github.com/Itok1000) 
