@@ -6,7 +6,7 @@ I look forward to working with you.
 [ readme ](https://github.com/Itok1000/master)
 
 ## Out-of-Service My Portfolio
-[![Chidi Eze](https://github.com/user-attachments/assets/16a326a4-04fb-4595-85bc-9ea46e5e9bef)]
+![Chidi Eze](https://github.com/user-attachments/assets/16a326a4-04fb-4595-85bc-9ea46e5e9bef)
 [reademe](https://github.com/Itok1000/birthnation)
 
 ## Skills
