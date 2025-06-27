@@ -7,7 +7,7 @@ I look forward to working with you.
 
 ## Out-of-Service My Portfolio(公開終了)
 ![Chidi Eze](https://github.com/user-attachments/assets/16a326a4-04fb-4595-85bc-9ea46e5e9bef)
-[reademe](https://github.com/Itok1000/birthnation)
+[readme](https://github.com/Itok1000/birthnation)
 
 ## Skills
 ![](https://skillicons.dev/icons?i=html,scss,css,js,ruby,rails,docker,figma,bootstrap,tailwind,aws,ubuntu,discord,git,postgresql,vscode,eclipse,github)
