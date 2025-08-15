@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a new web engineer who just started Github in July 2024!
+I started Github in July 2024!
 I look forward to working with you.
 ## My portfolio(公開中/イメージ画像をクリックするとサイトに飛びます)
 [![ジョージア料理診断アプリ ガマルジョバ](https://github.com/user-attachments/assets/286864db-b868-496f-a1ed-55805c6b6295)](https://gamarjoba.jp/)
